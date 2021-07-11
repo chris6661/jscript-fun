@@ -1,0 +1,18 @@
+.clock {
+    background: #000000;
+    width: 200px; 
+    padding: 10px; 
+    text-align: center; 
+    border-radius: 10px; 
+}
+
+.clock-time, 
+.clock-ampm {
+    font-family: "Staatliches";
+    font-size: 30px; 
+    color: #1875aa; 
+}
+
+.clock-time {
+    font-size: 48px; 
+}
