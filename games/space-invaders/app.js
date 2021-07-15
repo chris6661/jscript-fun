@@ -94,7 +94,7 @@
 //             squares[currentLaserIndex].classList.remove('laser')
 //             currentLaserIndex -= width
 //             squares[currentLaserIndex].classList.add('laser')
-//             if(squares[currentLaserIndex].contains('invader')) {
+//             if(squares[currentLaserIndex].classList.contains('invader')) {
 //                 squares[currentLaserIndex].classList.remove('laser')
 //                 squares[currentLaserIndex].classList.remove('invader')
 //                 squares[currentLAserIndex].classList.add('boom')
